@@ -11,7 +11,7 @@
 	height: 100vh;
 	position: fixed;
 	z-index: 200;
-	width: 100vw;
+	width: 80vw;
 	background-color: #090807;
 	color: #faf7ff;
 	pointer-events: none
