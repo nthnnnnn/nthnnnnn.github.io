@@ -43,10 +43,10 @@
 	display: flex;
 	width: fit-content;
 	font-family: var(--font-b-stem);
-	font-size: 20vw
+	font-size: 25vw
 }
 
-span:nth-child(9) {
+span:nth-child(7) {
 	color: #f4bf3c
 }
 
