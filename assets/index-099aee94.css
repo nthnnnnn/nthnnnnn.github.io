@@ -55,7 +55,7 @@ span:nth-child(9) {
 	line-height: 1;
 	font-family: var(--font-sb-roslindale);
 	color: var(--yellow-color);
-	font-weight: 500;
+	font-weight: 300;
 	padding: .2rem 0rem .2rem .7rem;
 	font-size: calc(30px + (60 - 30) * ((100vw - 282px) / (1600 - 282)))
 }
