@@ -72,7 +72,7 @@ html {
 }
 
 body {
-	margin: 5;
+	margin: 0;
 	padding: 0
 }
 
@@ -201,7 +201,7 @@ responsive-video-background {
 }
 
 .landing-video-content {
-	margin-inline: 1.5%
+	margin-inline: 5%
 }
 
 .wrap-overlay-text {
