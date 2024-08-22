@@ -4481,8 +4481,8 @@ const jt = Oo(Po);
 function Mo() {
     var s = 0,
         c = 0,
-        g = ["PROFESSIONAL", "PASSIONATE", "AMATEUR", "PRETENTIOUS", "FERVENT"],
-        y = ["VIDEO EDITOR", "FILM MAKER", "GAMER", "FOOTBALL FAN", "FOODIE"];
+        g = ["PROFESSIONAL", "PASSIONATE", "AMATEUR"],
+        y = ["VIDEO EDITOR", "FILM MAKER", "GAMER"];
 
     function b() {
         jt(".tricks").each(function() {
