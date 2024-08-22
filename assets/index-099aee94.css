@@ -3,7 +3,22 @@
 .isloading .ncontainer {
 	visibility: hidden
 }
+.category-item {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    border: none;
+    text-decoration: none;
+}
 
+.category-item img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
 
 .loader {
 	display: flex;
