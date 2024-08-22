@@ -3,8 +3,14 @@
 .isloading .ncontainer {
 	visibility: hidden
 }
+.category-section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0; /* Remove any gap between the items */
+}
+
 .category-item {
-    display: inline-block;
+    flex: 1 1 auto;
     margin: 0;
     padding: 0;
     border: none;
@@ -18,7 +24,9 @@
     margin: 0;
     padding: 0;
     border: none;
+    object-fit: cover; /* Ensures the image covers the entire area without leaving white spaces */
 }
+
 
 
 .loader {
