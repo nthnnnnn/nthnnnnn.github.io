@@ -3,31 +3,6 @@
 .isloading .ncontainer {
 	visibility: hidden
 }
-.category-section {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0; /* Remove any gap between the items */
-}
-
-.category-item {
-    flex: 1 1 auto;
-    margin: 0;
-    padding: 0;
-    border: none;
-    text-decoration: none;
-}
-
-.category-item img {
-    display: block;
-    width: 100%;
-    height: auto;
-    margin: 0;
-    padding: 0;
-    border: none;
-    object-fit: cover; /* Ensures the image covers the entire area without leaving white spaces */
-}
-
-
 
 .loader {
 	display: flex;
