@@ -43,7 +43,7 @@
 	display: flex;
 	width: fit-content;
 	font-family: var(--font-b-stem);
-	font-size: 25vw
+	font-size: 20vw
 }
 
 span:nth-child(9) {
