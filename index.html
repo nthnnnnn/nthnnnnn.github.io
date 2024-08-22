@@ -88,6 +88,23 @@
         background-color: yellow;
         border-radius: 5px;
       }
+      .horizontal-scroll {
+    display: flex;
+    overflow-x: auto;
+    white-space: nowrap;
+    gap: 20px;
+    padding: 20px;
+}
+
+.scroll-item {
+    min-width: 300px;
+    background-color: #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    flex: 0 0 auto;
+}
+
     </style>
   </head>
   <body class="isloading">
@@ -416,7 +433,7 @@
 
      <!-- <script type="module" src="./js/partialJs/transition.js"></script> -->
     <!-- <script type="module" src="./js/main.js"></script> -->
-    
+    <!--
     <script>
       const categorySection = document.getElementById('category-section');
 
@@ -428,6 +445,6 @@
           }
       });
   </script> 
-    
+    -->
   </body>
 </html>
